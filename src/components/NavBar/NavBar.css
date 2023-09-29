@@ -1,0 +1,31 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    font-size: 100px; 
+    color: rgba(2, 68, 85, 0.767);
+}
+
+.Nav{
+    font-size: 20px; 
+}
+
+a:visited{
+color: black; 
+text-decoration: none;
+
+}
+
+a:link{
+color: black; 
+text-decoration: none;
+}
+
+
+#basic-nav-dropdown{
+color: black;
+}
+
+span{
+    font-size: 13px;
+}
+
